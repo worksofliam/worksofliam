@@ -4,11 +4,11 @@ Some may also know me as Barry ☺
 
 I primarily work with RPGLE and Node.js, but previously used other languages like C# and PHP. I am invested heavily into the IBM i industry to help people learn other tech (like Node.js, Heroku, modern development practices, so on!). I love working and creating on dev tools to make developing applications easier for everyone in the long run. I am a consultant working with clients who are usually invested in IBM i. I help them use new technologies on and off the OS. I of course love, love, love open-source! Oh and I sometimes speak at conferences.
 
-- 🔭 I’m currently working on: node-db2fori
+- 🔭 I’m currently working on: ILEditor 2
 - 🌱 I’m currently learning: Db2 for i ODBC socket protocol
 - 💬 Ask me about: anything IBM i or Node.js
 - 📫 How to reach me: Twitter!
-- 😄 Pronouns: They/them
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Breakfast tacos are my fav but I can't find them in the UK
 
 ---
