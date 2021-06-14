@@ -9,7 +9,7 @@ I primarily work with RPGLE and Node.js, but previously used other languages lik
 - 💬 Ask me about: anything IBM i or Node.js
 - 📫 How to reach me: Twitter!
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Breakfast tacos are my fav but I can't find them in the UK
+- ⚡ Fun fact: Floor and flaw sound the same
 
 ---
 
