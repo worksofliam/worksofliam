@@ -5,7 +5,7 @@ Some may also know me as Barry ☺
 I primarily work with RPGLE and Node.js, but previously used other languages like C# and PHP. I am invested heavily into the IBM i industry to help people learn other tech (like Node.js, Heroku, modern development practices, so on!). I love working on and creating dev tools to make developing applications easier for everyone in the long run. I am a consultant working with clients who are usually invested in IBM i. I help them use new technologies on and off the OS. I of course love, love, love open-source! Oh, and I sometimes speak at conferences.
 
 - 🔭 I’m currently working on: Code for IBM i
-- 🌱 I’m currently learning: VSCode Extension API
+- 🌱 I’m currently learning: build systems for IBM i
 - 💬 Ask me about: anything IBM i or Node.js
 - 📫 How to reach me: Twitter!
 - 😄 Pronouns: He/him
