@@ -20,13 +20,12 @@ I primarily work with RPGLE and Node.js, but previously used other languages lik
 ### Cool open-source projects 😎
 
 * [Code for IBM i](https://github.com/halcyon-tech/code-for-ibmi) - a vscode extension for IBM i development
-* [rpgfreeweb](https://github.com/worksofbarry/rpgfreeweb) - a browser based RPGLE fixed-to-free format converter
-* [db2Model](https://github.com/worksofbarry/db2Model) - a CLI to generate Node.js-JavaScript based on Db2 for i database objects
+* [IBM i Code Coverage](https://github.com/halcyon-tech/code-coverage-ibmi) - vscode extension that adds IBM i code coverage integration 
+* [IBM i Testing](https://github.com/halcyon-tech/testing-ibmi) - testing framework vscode extension for RPGLE on IBM i
 * [openapi-ileastic](https://github.com/worksofbarry/openapi-ileastic) - Generates an entire RPGLE web server based on an OpenAPI spec.
 * [NetRPG](https://github.com/worksofbarry/NetRPG) - my attempt at writing an RPGLE runtime based on .NET Core.
 * [ILEditor](https://github.com/worksofbarry/ILEditor) - the original ILEditor, an .NET Framework based IDE for IBM i development
 * [noxDB](https://github.com/sitemule/noxDB) - a JSON & XML parser written in C. I helped write test cases and documentation for this awesome project
-* [gitCM](https://github.com/worksofbarry/gitcm) - an attempt at writing a git client in RPGLE for 5250.
 
 ---
 
