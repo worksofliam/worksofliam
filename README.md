@@ -4,13 +4,15 @@ Some may also know me as Barry ☺
 
 I primarily work with RPGLE and Node.js, but previously used other languages like C# and PHP. I am invested heavily into the IBM i industry to help people learn other tech (like Node.js, Heroku, modern development practices, so on!). I love working on and creating dev tools to make developing applications easier for everyone in the long run. I am a consultant working with clients who are usually invested in IBM i. I help them use new technologies on and off the OS. I of course love, love, love open-source! Oh, and I sometimes speak at conferences.
 
+[Check out my blog](https://github.com/worksofliam/blog/issues).
+
 <p>
   <img width="170" align='right' src="https://raw.githubusercontent.com/worksofliam/worksofliam/master/icon/DqmysLPWoAAYjHZ.jpg?raw=true">
 </p>
 
-- 🔭 I’m currently working on: Code for IBM i
+- 🔭 I’m currently working on: VS Code extensions!
 - 🌱 I’m currently learning: rust
-- 💬 Ask me about: anything IBM i or Node.js
+- 💬 Ask me about: anything VS Code, Node.js or IBM i
 - 📫 How to reach me: Twitter!
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Floor and flaw sound the same
