@@ -2,7 +2,7 @@
 
 Some may also know me as Barry ☺
 
-I primarily work with Node.js and C, but previously used other languages like C# and PHP. I am invested heavily into the IBM i industry to help people learn other tech (like Node.js, Heroku, modern development practices, so on!). I love working on and creating dev tools to make developing applications easier for everyone in the long run. I am a consultant working with clients who are usually invested in IBM i. I help them use new technologies on and off the OS. I of course love, love, love open-source! Oh, and I sometimes speak at conferences.
+I primarily work with Node.js and C, but previously used other languages like C# and PHP. I am invested heavily into the IBM i industry to help people learn other tech (like Node.js, Heroku, modern development practices, so on!). I love working on and creating dev tools to make developing applications easier for everyone in the long run. I am now working at IBM as a Advisory Software Engineer, working with clients, Merlin and open-source. I of course love, love, love open-source! Oh, and I sometimes speak at conferences.
 
 [Check out my blog](https://github.com/worksofliam/blog/issues).
 
@@ -11,7 +11,7 @@ I primarily work with Node.js and C, but previously used other languages like C#
 </p>
 
 - 🔭 I’m currently working on: VS Code extensions!
-- 🌱 I’m currently learning: rust
+- 🌱 I’m currently learning: openshift
 - 💬 Ask me about: anything VS Code, Node.js or IBM i
 - 📫 How to reach me: Twitter!
 - 😄 Pronouns: He/him
