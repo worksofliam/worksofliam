@@ -23,8 +23,8 @@ I primarily work with Node.js and C, but previously used other languages like C#
 
 * [Code for IBM i](https://github.com/halcyon-tech/code-for-ibmi) - a vscode extension for IBM i development
 * [IBM i Code Coverage](https://github.com/halcyon-tech/code-coverage-ibmi) - vscode extension that adds IBM i code coverage integration 
-* [openapi-ileastic](https://github.com/worksofbarry/openapi-ileastic) - Generates an entire RPGLE web server based on an OpenAPI spec.
-* [NetRPG](https://github.com/worksofbarry/NetRPG) - my attempt at writing an RPGLE runtime based on .NET Core.
+* [Manzan](https://github.com/ThePrez/Manzan) - Make use of IBM i watches to publish data to other services (Camel, some database, Sentry, etc)
+* [vscode-db2i](https://github.com/halcyon-tech/vscode-db2i) - Db2 for i database tools inside of Visual Studio Code
 * [ILEditor](https://github.com/worksofbarry/ILEditor) - the original ILEditor, an .NET Framework based IDE for IBM i development
 * [noxDB](https://github.com/sitemule/noxDB) - a JSON & XML parser written in C. I helped write test cases and documentation for this awesome project
 
