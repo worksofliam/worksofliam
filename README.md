@@ -2,7 +2,7 @@
 
 Some may also know me as Barry ☺
 
-I primarily work with Node.js and C, but previously used other languages like C# and PHP. I am invested heavily into the IBM i industry to help people learn other tech (like Node.js, Heroku, modern development practices, so on!). I love working on and creating dev tools to make developing applications easier for everyone in the long run. I am now working at IBM as a Advisory Software Engineer, working with clients, Merlin and open-source. I of course love, love, love open-source! Oh, and I sometimes speak at conferences.
+I primarily work with Node.js and C, but previously used other languages like C# and PHP. I am invested heavily into the IBM i industry to help people learn other tech (like Node.js, AWS, Azure, modern development practices, so on!). I love working on and creating dev tools to make developing applications easier for everyone in the long run. I am now working at IBM as a Advisory Software Engineer, working with clients, Merlin and open-source. I of course love, love, love open-source! Oh, and I sometimes speak at conferences.
 
 [Check out my blog](https://github.com/worksofliam/blog/issues).
 
@@ -22,9 +22,9 @@ I primarily work with Node.js and C, but previously used other languages like C#
 ### Cool open-source projects 😎
 
 * [Code for IBM i](https://github.com/halcyon-tech/code-for-ibmi) - a vscode extension for IBM i development
-* [IBM i Code Coverage](https://github.com/halcyon-tech/code-coverage-ibmi) - vscode extension that adds IBM i code coverage integration 
 * [Manzan](https://github.com/ThePrez/Manzan) - Make use of IBM i watches to publish data to other services (Camel, some database, Sentry, etc)
 * [vscode-db2i](https://github.com/halcyon-tech/vscode-db2i) - Db2 for i database tools inside of Visual Studio Code
+* [vscode-rpgle](https://github.com/halcyon-tech/vscode-rpgle) - an RPGLE language server built for Visual Studio Code
 * [ILEditor](https://github.com/worksofbarry/ILEditor) - the original ILEditor, an .NET Framework based IDE for IBM i development
 * [noxDB](https://github.com/sitemule/noxDB) - a JSON & XML parser written in C. I helped write test cases and documentation for this awesome project
 
