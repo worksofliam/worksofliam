@@ -7,7 +7,7 @@ I primarily work with Node.js/TS and C, but previously used other languages like
 [Check out my blog](https://github.com/worksofliam/blog/issues).
 
 <p>
-  <img width="170" align='right' src="https://raw.githubusercontent.com/worksofliam/worksofliam/master/icon/DqmysLPWoAAYjHZ.jpg?raw=true">
+  <img width="170" align='right' src="https://user-images.githubusercontent.com/3708366/224093124-76d3d828-1063-4809-8a21-3d0db47142bf.jpeg">
 </p>
 
 - 🔭 I’m currently working on: improving my work/life balance
