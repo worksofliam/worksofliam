@@ -30,7 +30,6 @@ I primarily work with Node.js/TS and C, but previously used other languages like
 ---
 
 <p align='center'>
-<a href="https://twitter.com/notesofbarry"><img height="30" src="https://raw.githubusercontent.com/worksofliam/worksofliam/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/picsofbarry"><img height="30" src="https://raw.githubusercontent.com/worksofliam/worksofliam/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/worksofbarry/"><img height="30" src="https://raw.githubusercontent.com/worksofliam/worksofliam/master/icon/linkedin.png?raw=true"></a>
 </p>
