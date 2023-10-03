@@ -10,8 +10,8 @@ I primarily work with Node.js/TS and C, but previously used other languages like
   <img width="170" align='right' src="https://user-images.githubusercontent.com/3708366/224093124-76d3d828-1063-4809-8a21-3d0db47142bf.jpeg">
 </p>
 
-- 🔭 I’m currently working on: improving my work/life balance
-- 🌱 I’m currently learning: java, again
+- 🔭 I’m currently working on: database tools
+- 🌱 I’m currently learning: godot
 - 💬 Ask me about: anything VS Code, Node.js or IBM i
 - 📫 How to reach me: Twitter!
 - 😄 Pronouns: He/him
