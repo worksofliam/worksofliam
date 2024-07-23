@@ -11,8 +11,8 @@ I primarily work with Node.js/TS and C, but previously used other languages like
 </p>
 
 - 🔭 I’m currently working on: database tools
-- 🌱 I’m currently learning: godot
-- 💬 Ask me about: anything VS Code, Node.js or IBM i
+- 🌱 I’m currently learning: godot & go
+- 💬 Ask me about: reading
 - 📫 How to reach me: LinkedIn or email
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Floor and flaw sound the same
